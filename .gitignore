@@ -1,4 +1,4 @@
-temp/log/*.tmp
-temp
-zametka.txt
 
+/temp/log/*.tmp
+/temp
+zametka.txt
